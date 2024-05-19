@@ -51,8 +51,6 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>&nbsp;
-
-
 <img src="https://skillicons.dev/icons?i=java" alt="Java">
 <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
 <img src="https://skillicons.dev/icons?i=maven" alt="Maven">
