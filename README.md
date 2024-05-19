@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<!-- <div style="display: flex; justify-content: center; gap: 10px;">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java"/>
    <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
@@ -30,10 +30,10 @@
     <img src="https://skillicons.dev/icons?i=java" alt="Java">
     <span>Java</span>
   </div>
-</div>   
+</div>    -->
 
 
-<!-- <div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=java" alt="Java">
     <span>Java</span>
@@ -66,4 +66,4 @@
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
     <span>Spring Boot</span>
   </div>
-</div> -->
+</div>
