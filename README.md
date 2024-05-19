@@ -1,11 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Micael! 👋</h1>
+
+
 
 ## About me:
 
-- 🔭 I’m currently deep diving into **Backend Development** 💻, especially with Java, Spring Boot
-- 🌱 Currently exploring (and quite in love) with Svelte
+- 🔭 I’m currently deep diving into **Backend Software Engineer** 💻, especially with Java, Spring Boot
+- 🌱 Currently learning Kubernetes
 - 🤗 Hobbies: Chess ♟️.
-- 📫 How to reach me: micael.lobo@proton.me, and my [LinkedIn](https://linkedin.com/in/micaellobo)
+<!-- - 📫 How to reach me: micael.lobo@proton.me, and my [LinkedIn](https://linkedin.com/in/micaellobo) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathik-shetty15) 
+<a href="mailto:micael.lobo@proton.me"><img src="https://img.shields.io/badge/-micael.lobo@proton.me-D14836?style=flat&logo=mailgun&logoColor=white"/></a>
 
 ## ⚙️ My Skills ⚙️
 <p align="center">
