@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- <div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java"/>
    <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=java" alt="Java">
     <span>Java</span>
   </div>
-</div>    -->
+</div>   
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,52 +50,3 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>&nbsp;
   </a>
 </p>
-
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" title="Nodejs"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" title="Nextjs"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs" title="Nestjs"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>&nbsp;
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java">
-    <span>Java</span>
-  </div>
-   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
-    <span>Spring Boot</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
-    <span>Spring Boot</span>
-  </div> 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=maven" alt="Maven">
-    <span>Maven</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
-    <span>Spring Boot</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
-    <span>Spring Boot</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
-    <span>Spring Boot</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring">
-    <span>Spring Boot</span>
-  </div>
-</div>
