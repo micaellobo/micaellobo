@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-<!-- -  🔭 I’m currently working on ...
--  🌱 I’m currently learning ...
--  👯 I’m looking to collaborate on ...
--  🤔 I’m looking for help with ...
--  💬 Ask me about ... -->
-<!--
--  📫 How to reach me: - 😄 Pronouns: .. .
-   -  ⚡ Fun fact: ...
-      -->
+## About me:
+
+- 🔭 I’m currently deep diving into **Backend Development** 💻, especially with Java, Spring Boot
+- 🌱 Currently exploring (and quite in love) with Svelte
+- 🤗 Hobbies: Chess ♟️.
+- 📫 How to reach me: micael.lobo@proton.me, and my [LinkedIn](https://linkedin.com/in/micaellobo)
 
 ## ⚙️ My Skills ⚙️
 <p align="center">
