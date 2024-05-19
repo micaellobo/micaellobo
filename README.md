@@ -10,6 +10,8 @@
    -  ⚡ Fun fact: ...
       -->
 
+## ⚙️ My Skills ⚙️
+
 <p align="center">
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java"/>
     <!-- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> -->
