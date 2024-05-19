@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,rust,react,solidjs,svelte,nextjs,astro,tailwindcss,nodejs,tauri,prisma,docker,linux" alt="TypeScript, Rust, React, Solid, Svelte (Kit), Next.js, Astro, TailwindCSS, Node.js, Tauri, Prisma, Docker, Linux">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,sqlserver,postgres,mongodb,docker" alt="Java, Spring Boot, Maven, SQL Server, PostgreSQL, MongoDB, Docker, Astro, TailwindCSS, Node.js, Tauri, Prisma, Docker, Linux">
   </a>
 </p>
 
@@ -51,6 +51,11 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>&nbsp;
+
+
+<img src="https://skillicons.dev/icons?i=java" alt="Java">
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring">
+<img src="https://skillicons.dev/icons?i=maven" alt="Maven">
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
