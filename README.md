@@ -1,10 +1,10 @@
 ### Hi there 👋
 
--  🔭 I’m currently working on ...
+<!-- -  🔭 I’m currently working on ...
 -  🌱 I’m currently learning ...
 -  👯 I’m looking to collaborate on ...
 -  🤔 I’m looking for help with ...
--  💬 Ask me about ...
+-  💬 Ask me about ... -->
 <!--
 -  📫 How to reach me: - 😄 Pronouns: .. .
    -  ⚡ Fun fact: ...
@@ -21,4 +21,11 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB"/>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" title="Docker"/>
+</p>
+
+<p align="center">
+  <a href="#">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=micaellobo&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaellobo&layout=compact&theme=dark&count_private&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  </a>
 </p>
