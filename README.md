@@ -8,7 +8,7 @@
 - 🌱 Currently learning Kubernetes
 - 🤗 Hobbies: Chess ♟️.
 <!-- - 📫 How to reach me: micael.lobo@proton.me, and my [LinkedIn](https://linkedin.com/in/micaellobo) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathik-shetty15) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/micaellobo) 
 <a href="mailto:micael.lobo@proton.me"><img src="https://img.shields.io/badge/-micael.lobo@proton.me-D14836?style=flat&logo=mailgun&logoColor=white"/></a>
 
 ## ⚙️ My Skills ⚙️
