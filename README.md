@@ -14,10 +14,9 @@
 ## ⚙️ My Skills ⚙️
 <p align="center">
  <a href="#">
-    <img width="110" src="assets/kotlin.png" alt="Kotlin" title="Kotlin" />
+    <img width="90" src="assets/kotlin-wordmark.png" alt="Kotlin" title="Kotlin" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java"/>
     <img width="90" src="assets/spring-boot.png" alt="Spring Boot" title="Spring Boot" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" alt="Maven" title="Maven" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" title="PostgreSQL"/>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" />
     <img width="50" src="assets/mongodb.png" alt="MongoDB" title="MongoDB"/>
