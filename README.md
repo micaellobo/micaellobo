@@ -5,7 +5,7 @@
 ## About me:
 
 - 🔭 I’m currently deep diving into **Backend Software Engineer** 💻, especially with Java, Kotlin, Spring Boot
-- 🌱 Currently learning Kubernetes
+ <!--- 🌱 Currently learning Kubernetes -->
 - 🤗 Hobbies: Chess ♟️.
 <!-- - 📫 How to reach me: micael.lobo@proton.me, and my [LinkedIn](https://linkedin.com/in/micaellobo) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/micaellobo) 
