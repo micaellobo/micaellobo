@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently deep diving into **Backend Software Engineer** 💻, especially with Java, Kotlin, Spring Boot
  <!--- 🌱 Currently learning Kubernetes -->
-- 🤗 Hobbies: Chess ♟️.
+- 🤗 Hobbies: Chess, Gym, Learn things
 <!-- - 📫 How to reach me: micael.lobo@proton.me, and my [LinkedIn](https://linkedin.com/in/micaellobo) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/micaellobo) 
-<a href="mailto:micael.lobo@proton.me"><img src="https://img.shields.io/badge/-micael.lobo@proton.me-D14836?style=flat&logo=mailgun&logoColor=white"/></a>
+<a href="mailto:contact@mllobo.com"><img src="https://img.shields.io/badge/-contact@mllobo.com-D14836?style=flat&logo=mailgun&logoColor=white"/></a>
 
 ## ⚙️ My Skills ⚙️
 <p align="center">
@@ -28,6 +28,6 @@
 <p align="center">
   <a href="#">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=micaellobo&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaellobo&layout=compact&theme=dark&count_private&hide_border=true&bg_color=0d1117" alt="Top Langs">
+    <img src="https://nice-readme.vercel.app/api/top-langs/?username=micaellobo&layout=compact&theme=dark&count_private&hide_border=true&bg_color=0d1117" alt="Top Langs">
   </a>
 </p>
